@@ -1,0 +1,55 @@
+MATLAB Onramp es un curso interactivo gratuito ofrecido por MathWorks, diseñado para introducir a los nuevos usuarios en el uso básico de MATLAB, una herramienta muy utilizada en ingeniería, ciencia y matemáticas para análisis de datos, simulación y programación.
+
+🧠 Objetivo del curso
+Proporcionar una comprensión práctica de los fundamentos de MATLAB a través de ejercicios guiados que se completan directamente en el navegador.
+
+📚 Contenido del curso
+El curso está dividido en módulos que abordan los siguientes temas:
+
+Introducción a MATLAB
+
+Qué es MATLAB y su interfaz.
+
+Cómo ejecutar comandos simples.
+
+Variables y asignaciones
+
+Creación de variables.
+
+Tipos de datos básicos.
+
+Vectores y matrices
+
+Indexación, manipulación y operaciones básicas.
+
+Visualización de datos
+
+Uso de funciones como plot para graficar.
+
+Control de flujo
+
+Estructuras como if, for, while.
+
+Funciones
+
+Cómo definir y llamar funciones personalizadas.
+
+Automatización
+
+Scripts y manejo de errores básicos.
+
+🎯 Características clave
+Duración: Aprox. 2 horas.
+
+Interactividad: Ejercicios prácticos con retroalimentación inmediata.
+
+Certificado: Se otorga un certificado al finalizar.
+
+Requisitos previos: Ninguno. Es ideal para principiantes.
+
+✅ Ventajas
+100% gratuito.
+
+Basado en navegador (no necesitas instalar MATLAB).
+
+Muy útil para estudiantes, ingenieros, científicos y cualquier persona que quiera iniciarse en análisis computacional.
